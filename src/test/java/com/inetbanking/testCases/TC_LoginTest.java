@@ -1,7 +1,5 @@
 package com.inetbanking.testCases;
 
-import java.util.LinkedHashMap;
-
 import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;

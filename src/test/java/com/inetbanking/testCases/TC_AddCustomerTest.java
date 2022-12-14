@@ -27,7 +27,7 @@ public class TC_AddCustomerTest extends BaseClass{
 		Thread.sleep(3000);
 
 		AddCustomerPage addcust=new AddCustomerPage(driver);
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		addcust.clickAddNewCustomer();
 
 		//			 Thread.sleep(5000);
@@ -65,7 +65,7 @@ public class TC_AddCustomerTest extends BaseClass{
 		addcust.custpassword("abc123");
 		addcust.custsubmit();
 
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 
 		logger.info("validation started....");
 

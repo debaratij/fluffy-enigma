@@ -7,8 +7,8 @@
 -->
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.inetbanking.testCases.TC_LoginTest"/>
-      <class name="com.inetbanking.testCases.TC_LoginTestDDT"/>
+       <class name="com.inetbanking.testCases.TC_LoginTest"/>
+     <!--  <class name="com.inetbanking.testCases.TC_LoginTestDDT"/>--> 
       <class name="com.inetbanking.testCases.TC_AddCustomerTest"/>
     </classes>
   </test> <!-- Test -->
